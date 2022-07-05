@@ -1,0 +1,29 @@
+
+header{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightblue;
+    opacity: 0.3;
+}
+
+h1{
+    color: blue;
+    text-decoration-line: dotted;
+}
+
+ul {
+    list-style-type: circle;
+  }
+
+#Uni{
+    float:left; 
+}
+
+#Fecha{
+    font: bold;
+    float:right;
+}
+
+main{
+   margin: auto; 
+   border: 10px rebeccapurple;
+}
